@@ -13,7 +13,9 @@ tailwind.config = {
         backgroundImage: {
             'bannerbg': "url('./images/banner-bg.jpg')",
             'footer-texture': "url('/img/footer-texture.png')",
-            'overlay': 'linear-gradient(40deg, rgba(6, 6, 6, 0.76) 16.68%, rgba(0, 0, 0, 0.07) 96.44%);'
+            'overlay': 'linear-gradient(40deg, rgba(6, 6, 6, 0.76) 16.68%, rgba(0, 0, 0, 0.07) 96.44%);',
+            'text-clip': ' linear-gradient(110deg, #A50E2B -53.83%, #DC6853 62.61%);',
+            'urlbg': "url('./images/save.jpg')",
           }
     
       }
